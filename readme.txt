@@ -1,1 +1,1 @@
-Collection of algorithm scripts/exercises done on FreeCodeCamp
+Collection of intermediate/advanced algorithm scripting exercises done on FreeCodeCamp
