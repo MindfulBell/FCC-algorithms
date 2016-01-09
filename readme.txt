@@ -1,0 +1,1 @@
+Collection of algorithm scripts/exercises done on FreeCodeCamp
